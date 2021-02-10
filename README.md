@@ -1,70 +1,62 @@
-# Getting Started with Create React App
+# Nicole Marshall's Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![GitHub language count](https://img.shields.io/github/languages/count/ncmarsh/portfolio)
+![GitHub top language](https://img.shields.io/github/languages/top/ncmarsh/portfolio)
 
-## Available Scripts
+Welcome to my Portfolio, where you can find the most up to date information about my experience as a Full-Stack Web Developer.
 
-In the project directory, you can run:
+![Examples](./public/demo/quick-portfolio-demo.gif)
 
-### `npm start`
+## Table of Contents
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+1. [About the Project](#About-the-Project)
+1. [Languages and Concepts](#Languages-and-Concepts)
+1. [Usage](#Usage)
+1. [Demo](#Demo)
+1. [Roadmap](#Roadmap)
+1. [Links](#Links)
+1. [Contact](#Contact)
+1. [Contributing](#Contributing)
+1. [License](#License)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## About the Project
 
-### `npm test`
+This Portfolio site features my most recent projects including live and GitHub repository links, along with my contact information and ways to connect.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Languages and Concepts
 
-### `npm run build`
+- [React.js](https://reactjs.org/)
+- [React Router](https://reactrouter.com/)
+- [Bootstrap](https://getbootstrap.com/)
+- [FontAwesome](https://fontawesome.com/how-to-use/on-the-web/using-with/react)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Usage
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Users (and hopefully recruiters!) can quickly and easily view my most recent projects accompanied by links to find out more, by being able to view my GitHub and LinkedIn profiles and my resume, along with ways to contact me and find out more about my time as a Web Developer.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Demo
 
-### `npm run eject`
+![Full Portfolio Demo](./public/demo/full-demo.gif)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Roadmap
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Now that I am have more projects under my belt, I want to explore adding more interactive objects to my portfolio, like hover effects and image slideshows. I want to look into incorporating a different CSS library and using the GitHub API to access my repositories. I want to add functionality to the contact form and I would like to explore the idea of a feedback page, where users can offer feedback on what they see, offer advice, or propose new project ideas (either for me to work on or to work on together!).
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Links
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- [Live Portfolio Web Page](https://ncmarsh.github.io/portfolio)
+- [Project Repository](https://github.com/ncmarsh/portfolio) 
 
-## Learn More
+## Contact
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Nicole Marshall - [@ncmarsh](https://github.com/ncmarsh)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Contributing
 
-### Code Splitting
+This is a personal project; no contributions are required at this time.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## License
 
-### Analyzing the Bundle Size
+No license granted.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+##### [Return to Top of Page](#Nicole-Marshall's-Portfolio)
