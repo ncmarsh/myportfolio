@@ -44,8 +44,8 @@ Now that I am have more projects under my belt, I want to explore adding more in
 
 ## Links
 
-- [Live Portfolio Web Page](https://ncmarsh.github.io/portfolio)
-- [Project Repository](https://github.com/ncmarsh/portfolio) 
+- [Live Portfolio Web Page](https://ncmarsh.github.io/myportfolio/)
+- [Project Repository](https://github.com/ncmarsh/myportfolio) 
 
 ## Contact
 
